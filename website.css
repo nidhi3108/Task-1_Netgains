@@ -25,22 +25,15 @@
 .silk_button{
     margin-top: 40vh;
 }
-/* .flex-container_section_6{
-    height: 25vh;
-} */
-.section_6_info1{
-    margin-left: 12vw;
-}
-.section_6_info2{
-    /* margin-left: 12vw; */
-    width: 35vw;
-}
-
 .flex-container_section7{
    margin-left: 8vw;
    margin-top: 5vh;
    /* gap: 10px; */
 }
+/* .youtube{
+    height: 100%;
+    width: 100%;
+} */
 /* .marq{
     animation: 10s linear infinite;
 }
