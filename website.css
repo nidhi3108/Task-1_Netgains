@@ -1,21 +1,6 @@
-
-/* .imgbox{
-    height:500px;
-    margin-left: 195px;
-    width: 350px;
-} */
-
-/* .sec_5_img_1{
-    margin-left: 40px;
-    margin-top: 50px;
-    width: 300px;
-} */
-
-/* .sec_5_img_2{
-    background-image: url("images/1_8c91d991-1a27-418c-84ac-4c0e650f06fc.webp");
-} */
-
-
+body{
+     overflow-x: hidden;
+     }
 .logo1,.logo2,.logo3,.logo4,.logo5{
     width: 150px;
     height: 50px;
@@ -54,3 +39,20 @@
     font-size: 15px;
     margin-bottom: 10px;
  }
+ 
+ .carousel-nav-icon {
+    height: 48px;
+    width: 48px;
+ }
+ .carousel-item {
+       margin: 8px;
+       height: 300px;
+       background-size: cover;
+       background-position: center center;
+    
+ }
+ 
+ 
+ 
+ 
+ 
