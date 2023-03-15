@@ -1,5 +1,4 @@
 
-
 .imgbox{
     height:500px;
     margin-left: 195px;
@@ -32,19 +31,27 @@
    /* gap: 10px; */
 }
 
-
-/* .youtube{
-    height: 100%;
-    width: 100%;
-} */
-/* .marq{
-    animation: 10s linear infinite;
+.section_14_info{
+    font-size: 40px;
+    letter-spacing: 7px;
+    font-weight:800;
 }
-@keyframes marq {
-    from {
-      transform: translateX(100%);
-    }
-    to {
-      transform: translateX(-100%);
-    }
-  } */
+.section_14_info2{
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight:900;
+}
+.section_15_info{
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-weight:800;
+}
+.section_15_info2{
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight:900;
+}
+ li{
+    font-size: 15px;
+    margin-bottom: 10px;
+ }
